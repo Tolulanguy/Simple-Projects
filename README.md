@@ -1,6 +1,6 @@
-# Simple Projects from the Past
+# Simple Projects
 
-Welcome to my repository containing some past projects I've worked on in the past.
+Welcome to my repository containing some of the simple projects I've worked on in the past while building my coding proficiency.
 
 ## Introduction
 
