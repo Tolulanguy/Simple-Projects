@@ -14,6 +14,7 @@ In this repository, you will find a few collections of Python projects covering 
 3. **Love Calculator:** A fun calculator that uses input strings to calculate love percentage.
 4. **Treasure Island:** An interactive, fun, choice-based game based on users' decisions/choices.
 5. **Rock Paper Scissor:** An interactive rock-paper-scissors game between user and computer.
+6. **U.S. Guess The States:** An interactive game that tests your knowledge of all the U.S states.
 
 
 ## Usage
